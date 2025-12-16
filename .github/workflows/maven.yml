@@ -19,7 +19,6 @@ permissions:
   security-events: write
   actions: read
   id-token: write
-  dependency-graph: write
   issues: read
 
 jobs:
